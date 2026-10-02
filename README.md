@@ -97,6 +97,7 @@ ecommerce-sales-analysis/
 ├── 02_sql_analysis.ipynb
 ├── README.md
 └── .gitignore
+```
 
 ## Author
 
